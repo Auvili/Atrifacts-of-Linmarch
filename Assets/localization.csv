@@ -1,0 +1,36 @@
+Key,Description,Standard
+SAY.FCH_Blessed_Artifact.471.,,test
+SAY.FCH_Blessed_Artifact.38.,,Bandits cause landslide – player to left of victim chooses where (must be adjacent to victim player).
+SAY.FCH_Blessed_Artifact.40.,,Orcs steal artifact – players must catch them at their camp to steal it back.
+SAY.FCH_Blessed_Artifact.39.,,Player suffers illness and loses 1 action that turn.
+SAY.FCH_Blessed_Artifact.197.,,Storm forces retreat – player to left of victim moves them to an adjacent junction of their choice.
+WRITE.FCH_Blessed_Artifact.485,,{$Turncounter} turns
+WRITE.FCH_Blessed_Artifact.232,,{$Turncounter} turns
+WRITE.FCH_Blessed_Artifact.240,,{$Turncounter} turn
+SAY.FCH_Blessed_Artifact.466.,,uho
+SAY.FCH_Blessed_Artifact.414.,,Village sends warriors to block a path of the player’s choice – the blockage cannot be passed and lasts until the next event.
+SAY.FCH_Blessed_Artifact.421.,,Village sends warriors to escort player – they immediately move 1 space.
+SAY.FCH_Blessed_Artifact.428.,,Capital gifts player 3 gold.
+SAY.FCH_Blessed_Artifact.435.,,"Village Shaman manages to remove a blockage of player’s choice. If removing magic storm, they only remove half of it (1 token). Has no effect on Ent-Wives’ ability."
+SAY.FCH_Blessed_Artifact.442.,,Thief steals up to 3 gold from player.
+SAY.FCH_Ship_Control.153.,,Move the Orc Camp to {color=purple} The Kalatchian Jungle {/color}
+SAY.FCH_Ship_Control.64.,,Move the OrcCamp to  {color=brown} The Thunderhell Plains {/color}
+SAY.FCH_Ship_Control.219.,,Move the Orc Camp to {color=yellow} The Amavris Desert {/color}
+SAY.FCH_Ship_Control.197.,,Move the Orc Camp to  {color=green} The Green Heart {/color}
+SAY.FCH_Ship_Control.175.,,Move the Orc Camp to {color=blue} The Northern Wastes {/color}
+SAY.FCH_Ship_Control.107.,,Move the Orc Camp to {color=Black}The Teeth of the World {/color}
+WRITE.FCH_Ship_Control.267,,{$Orc_count} turns
+WRITE.FCH_Ship_Control.411,,heading to {$Place}
+SAY.FCH_Ship_Control.283.,,test test test
+WRITE.FCH_Ship_Control.318,,{$Orc_count} turns
+SAY.FCH_Orc_Control.153.,,Move the Orc Camp to {color=purple} The Kalatchian Jungle {/color}
+SAY.FCH_Orc_Control.64.,,Move the OrcCamp to  {color=brown} The Thunderhell Plains {/color}
+SAY.FCH_Orc_Control.219.,,Move the Orc Camp to {color=yellow} The Amavris Desert {/color}
+SAY.FCH_Orc_Control.197.,,Move the Orc Camp to  {color=green} The Green Heart {/color}
+SAY.FCH_Orc_Control.175.,,Move the Orc Camp to {color=blue} The Northern Wastes {/color}
+SAY.FCH_Orc_Control.107.,,Move the Orc Camp to {color=Black}The Teeth of the World {/color}
+WRITE.FCH_Orc_Control.267,,{$Orc_count} turns
+WRITE.FCH_Orc_Control.411,,to {$Place}
+SAY.FCH_Orc_Control.283.,,test test test
+WRITE.FCH_Orc_Control.318,,{$Orc_count} turns
+CHARACTER.Captian Rachel,,Captian Rachel

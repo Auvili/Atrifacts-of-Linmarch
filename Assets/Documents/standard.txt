@@ -1,0 +1,101 @@
+#SAY.FCH_Holy_Artifact.38.Captian Rachel
+The Capital priests summon wrath of gods - thief paralysed and unable to act for one turn.
+#SAY.FCH_Holy_Artifact.40.Captian Rachel
+Capital priests’ prayers are botched – thief is enhanced, and can move and use an ability on the same turn (spent or racial).
+
+#SAY.FCH_Holy_Artifact.39.Captian Rachel
+Capital priests enhances current player (or next if current player is thief), player can move and use an ability on the same turn (spent or racial).
+
+#SAY.FCH_Holy_Artifact.179.Captian Rachel
+Player encounters mysterious stranger who curses artifact. (Switch to Cursed Artifact).
+
+#SAY.FCH_Holy_Artifact.200.Captian Rachel
+Artifact empowers player carrying it – they immediately move 1 space.
+
+#SAY.FCH_Blessed_Artifact.176.
+test test test
+
+#SAY.FCH_Blessed_Artifact.38.Captian Rachel
+The Capital organises a workforce to clear a blocked road. (Player with the artifact's choice). If removing magic storm, they only remove half of it (1 token).
+
+#SAY.FCH_Blessed_Artifact.40.Captian Rachel
+Orcs steal the artifact - players must catch them at their camp and steal it back.
+
+#SAY.FCH_Blessed_Artifact.39.Captian Rachel
+The Capital sends soldiers to block a player of the carrier's choice - they are unable to act for 2 turns. They do not get bonus gold for not moving, but do get passive gold.
+
+#SAY.FCH_Blessed_Artifact.180.Captian Rachel
+Temple priests declare artifact to be holy – player has choice to return it. (Returning it grants a new Blessed Artifact, while keeping it switches to Holy Artifact.)
+
+#MENU.FCH_Blessed_Artifact.185
+Return to Capital
+
+#MENU.FCH_Blessed_Artifact.186
+Refuse to return
+
+#SAY.FCH_Blessed_Artifact.197.Captian Rachel
+Capital sends soldiers to escort player carrying artifact – they immediately move 1 space.
+
+#SAY.FCH_Cursed_Artifact.64.Captian Rachel
+Artifact corrupts carrier's gold - they lose up to 4 gold.
+
+#SAY.FCH_Cursed_Artifact.40.Captian Rachel
+Artifact corrupts orc mercenaries - they will block a path of the cursed player's choice and cannot be bribed again until the next Fungus event.
+
+#SAY.FCH_Cursed_Artifact.45.Captian Rachel
+Capital sends soldiers after artifact carrier, but artifact corrupts them - they block 2 adjacent paths of the carrier's choice. They act like 2 adjacent landslides, but cannot be removed with gold.
+
+#SAY.FCH_Cursed_Artifact.170.
+NOW OBSOLETE - REMOVE THIS
+
+#SAY.FCH_Cursed_Artifact.68.
+As which faction are you playing?
+
+#MENU.FCH_Cursed_Artifact.84
+The Razorboar Clan
+
+#MENU.FCH_Cursed_Artifact.81
+The Lynandria Cartel
+
+#MENU.FCH_Cursed_Artifact.86
+The Circle of the Ent-Wives
+
+#MENU.FCH_Cursed_Artifact.85
+The Dominion of the Warclaws
+
+#MENU.FCH_Cursed_Artifact.83
+The Longhorn Pack
+
+#MENU.FCH_Cursed_Artifact.82
+The Tailpit Tribe
+
+#SAY.FCH_Cursed_Artifact.122.
+Your Target is the {color=brown} Razorboar Clans village {/color} good luck
+
+#SAY.FCH_Cursed_Artifact.127.
+Your Target is the {color=yellow} Lynandria Cartel's village {/color} good luck
+
+#SAY.FCH_Cursed_Artifact.132.
+Your Target is the {color=green} Ent-Wives village {/color} good luck
+
+#SAY.FCH_Cursed_Artifact.137.
+Your Target is the {color=Orange} Dominion of the Warclaws village {/color} good luck
+
+#SAY.FCH_Cursed_Artifact.142.
+Your Target is the {color=blue} Longhorn Packs village {/color} good luck
+
+#SAY.FCH_Cursed_Artifact.147.
+Your Target is the {color=purple} Tailpit Tribes village {/color} good luck
+
+#SAY.FCH_Cursed_Artifact.180.Captian Rachel
+Capital priests cleanse artifact of curse – artifact is now blessed. (Switch to Blessed Artifact).
+
+#SAY.FCH_Cursed_Artifact.199.Captian Rachel
+Artifact empowers player carrying it – they immediately move 1 space.
+
+#SAY._CommandCopyBuffer.40.Captian Rachel
+Capital priests’ prayers are botched – thief is enhanced, instead of other player.
+
+#CHARACTER.Captian Rachel
+Captian Rachel
+

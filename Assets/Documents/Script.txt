@@ -1,0 +1,29 @@
+Bandits attack, causing a landslide! The player to your left chooses where. (Must be adjacent path to victim player).
+
+The orcs have stolen the artifact! Players must catch them at their camp to steal it back.
+
+You have fallen ill! Struggling to continue, you lose 1 action this turn.
+
+A storm has struck, forcing you to retreat. The player to your left moves you to an adjacent junction of their choice.
+
+Your village has sent warriors to block a path of your choice – the blockage cannot be passed and lasts until the next event.
+
+Your village has sent warriors to escort you – you may immediately move 1 space.
+
+The capital has sent you a gift! You recieve 3 gold.
+
+Your village Shaman removes a blockage of your choice. If removing a magic storm, they only remove half of it (1 token). Has no effect on Ent-Wives’ ability.
+
+A thief has stolen from you! You lose up to 3 gold.
+
+The orcs have moved on! They have relocated their camp to The Kalatchian Jungle Place the orc camp on the triangle marker.
+
+The orcs have moved on! They have relocated their camp to The Thunderhell Plains Place the orc camp on the triangle marker.
+
+The orcs have moved on! They have relocated their camp to The Amavris Desert Place the orc camp on the triangle marker.
+
+The orcs have moved on! They have relocated their camp to The Green Heart Place the orc camp on the triangle marker.
+
+The orcs have moved on! They have relocated their camp to The Northern Wastes Place the orc camp on the triangle marker.
+
+The orcs have moved on! They have relocated their camp to The Teeth of the World Place the orc camp on the triangle marker.
